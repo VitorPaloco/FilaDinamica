@@ -17,10 +17,10 @@
   <p>Sendo uma fila dinâmica, esse sistema guarda os valores seguindo o princípio de FIFO (First in, First out) ou seja, uma sequência de entrada de itens no estoque de forma a sempre priorizar que saiam antes aqueles que chegaram primeiro. Esse sistema também realiza algumas funções úteis em um gerenciamento de uma fila dinâmica como:</p>
   <ul>
       <li>Inserir um novo elemento no final da fila, ou no começo caso esteja vazia.</li>
-      <li>Lista todos os elementos, ou busca um específico por sua posição na fila.</li>
-      <li>Informa qual é o maior e o menor elemento da fila.</li>
-      <li>Informa a média dos elementos da lista.</li>
-      <li>Informa o tamanho da fila.</li>
+      <li>Listar todos os elementos, ou buscar um específico por sua posição na fila.</li>
+      <li>Informar qual é o maior e o menor elemento da fila.</li>
+      <li>Informar a média dos elementos da lista.</li>
+      <li>Informar o tamanho da fila.</li>
   </ul>
 
   <h2>Linguagem e Ferramentas</h2>
